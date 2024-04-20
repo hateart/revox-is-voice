@@ -1,0 +1,8 @@
+gunicorn
+flask
+boto3
+pydub
+torch
+torchaudio
+funasr
+modelscope
